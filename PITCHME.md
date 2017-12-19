@@ -1,8 +1,7 @@
 ## NewSky Present
 ---
--test 1
-
--test 2
+- test 1
+- test 2
 ---
 
-[![newsky](/assets/images/ti.jpg)](/assets/images/ti.jpg)
+![newsky](/assets/images/ti.jpg)
