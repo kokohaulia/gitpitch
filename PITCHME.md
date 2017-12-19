@@ -16,9 +16,10 @@ Aplikasi Monitoring untuk Pimpinan
 
 +++
 ![tampilan login](/assets/images/dashboard-login.png) 
-Gambar 1. Menu Login Dashboard Pimpinan |
+Gambar 1. Menu Login Dashboard Pimpinan
 
-Masukan Email Id dan Password, setelah dimasuka dengan benar, klik tombol Log in atau tekan tombol Ente pada keyboard. Sehingga akan menampilkan halaman utama. |
++++
+Masukan Email Id dan Password, setelah dimasuka dengan benar, klik tombol Log in atau tekan tombol Ente pada keyboard. Sehingga akan menampilkan halaman utama.
 
 ---
 
