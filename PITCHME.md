@@ -1,10 +1,25 @@
 ## NewSky Present
 
+#### Cara Melobi Janda dan Anak Sekolah
+
 ---
 
-### BELAJAR
-- /ANSDKAnsdklbAKLFD /KLNAD/fknfdbhilsadbnfk.bjsad.bfj.bsadkbfcsad.d/fklbksd.fbsadflbsaldbjklbsadlbALBSDJLSABDJKBASLDBJSALBDJLASBDLBSADJ.ABSDJA
-- test 2
+### Melobi Janda
+
+- Kita perlu mencari tahu dulu apakan dia sudah punya anak atau belom, jika sudah kita bisa mulai pdkt dengan mendekati anaknya. Jika belum kita bisa langsung mendekati janda tersebut. |
+- Ajak janda tersebut jalan-jalan |
 ---
 
-![newsky](/assets/images/ti.jpg)
+### Melobi Anak Sekolah
+
+- Traktir dia jajan |
+- Bawa motor gede biar kaya boy anak jalanan |
+---
+
+### Bermain Dengan Orang yang Lebih Muda
+- Ajak maen ajah
++++
+- Traktir Makan
++++
+- Ajak Jalan jalan
+
