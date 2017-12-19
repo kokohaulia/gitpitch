@@ -16,17 +16,16 @@ Aplikasi Monitoring untuk Pimpinan
 
 +++
 ![tampilan login](/assets/images/dashboard-login.png) 
-Gambar 1. Menu Login Dashboard Pimpinan
 
 +++
 Masukan Email Id dan Password, setelah dimasuka dengan benar, klik tombol Log in atau tekan tombol Ente pada keyboard. Sehingga akan menampilkan halaman utama.
 
 ---
 
-### 2 Dashboard 
+### Halaman Utama Dashboard Pimpinan
+
 Pada halaman Home ini terdapat data dashboard dari OPD-OPD terkait yang ditampilkan dalam bentuk prosentase dan grafik. Prosentase dan grafik tersebut menampilkan data tiap bulan dari OPD terkait.|
-[![Dashboard Halaman Depan](../images/dashboard-halaman-depan.png)](../images/dashboard-halaman-depan.png)
-Gambar 2. Halaman Depan Dashboard Pimpinan |
+![Dashboard Halaman Depan](/assets/images/dashboard-halaman-depan.png)]
 
 +++
 Pada Halaman ini jika user ingin melihat menu yang terdapat di Dashboard Pimpinan dapat mengklik tombol
@@ -35,8 +34,7 @@ Pada Halaman ini jika user ingin melihat menu yang terdapat di Dashboard Pimpina
 Sehingga list menu yang ada didalam apliksai dashboard pimpinan akan tampil seperti gambar dibawah ini:|
 
 +++
-[![Tampilan List Menu](../images/dashboard-list-menu.png)](../images/dashboard-list-menu.png)
-Gambar 3. Tampilan List Menu Dashboard 
+![Tampilan List Menu](../images/dashboard-list-menu.png)
 
 ---
 
