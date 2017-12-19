@@ -22,4 +22,7 @@
 - Traktir Makan
 +++
 - Ajak Jalan jalan
+---
+
+![newskypresent](/assets/images/ti.jpg)
 
