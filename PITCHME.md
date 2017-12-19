@@ -24,14 +24,15 @@ Masukan Email Id dan Password, setelah dimasuka dengan benar, klik tombol Log in
 
 ### Halaman Utama Dashboard Pimpinan
 
-Pada halaman Home ini terdapat data dashboard dari OPD-OPD terkait yang ditampilkan dalam bentuk prosentase dan grafik. Prosentase dan grafik tersebut menampilkan data tiap bulan dari OPD terkait.|
+Pada halaman Home ini terdapat data dashboard dari OPD-OPD terkait yang ditampilkan dalam bentuk prosentase dan grafik. Prosentase dan grafik tersebut menampilkan data tiap bulan dari OPD terkait.
++++
 ![Dashboard Halaman Depan](/assets/images/dashboard-halaman-depan.png)]
 
 +++
 Pada Halaman ini jika user ingin melihat menu yang terdapat di Dashboard Pimpinan dapat mengklik tombol
-![tombol lihat list menu](../images/tombol-list-menu.png) |
+![tombol lihat list menu](../images/tombol-list-menu.png)
 
-Sehingga list menu yang ada didalam apliksai dashboard pimpinan akan tampil seperti gambar dibawah ini:|
+Sehingga list menu yang ada didalam apliksai dashboard pimpinan akan tampil seperti gambar dibawah ini:
 
 +++
 ![Tampilan List Menu](../images/dashboard-list-menu.png)
