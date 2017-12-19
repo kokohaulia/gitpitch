@@ -11,14 +11,14 @@ Aplikasi Monitoring untuk Pimpinan
 
 +++
 - Bukalah aplikasi Dashboard Pimpinan melalui *web browser* dengan alamat url sebagai berikut : http://dashboard-01.dev.bantenprov.go.id/#/login . |
-- Kemudian tekan **Enter** pada tombol *keyboard* atau klik tombol **GO** pada browser. |
+- Kemudian tekan Enter pada tombol *keyboard* atau klik tombol GO pada browser. |
 - Maka pada layar akan tampak menu login situs Dashboard Pimpinan seperti ini: |
 
 +++
 ![tampilan login](/assets/images/dashboard-login.png) 
 Gambar 1. Menu Login Dashboard Pimpinan |
 
-Masukan Email Id dan Password, setelah dimasuka dengan benar, klik tombol **Log in** atau tekan tombol **Enter** pada keyboard. Sehingga akan menampilkan halaman utama. |
+Masukan Email Id dan Password, setelah dimasuka dengan benar, klik tombol Log in atau tekan tombol Ente pada keyboard. Sehingga akan menampilkan halaman utama. |
 
 ---
 
