@@ -8,7 +8,7 @@ Aplikasi Monitoring untuk Pimpinan
 ---
 
 ## Cara Penggunaan Aplikasi Dashboard Pimpinan
-### 1 Cara Membuka Situs |
+### 1 Cara Membuka Situs 
 1. Bukalah aplikasi Dashboard Pimpinan melalui *web browser* dengan alamat url sebagai berikut : http://dashboard-01.dev.bantenprov.go.id/#/login . |
 2. Kemudian tekan **Enter** pada tombol *keyboard* atau klik tombol **GO** pada browser. |
 3. Maka pada layar akan tampak menu login situs Dashboard Pimpinan seperti ini: |
@@ -21,7 +21,7 @@ Masukan Email Id dan Password, setelah dimasuka dengan benar, klik tombol **Log 
 
 ---
 
-### 2 Dashboard |
+### 2 Dashboard 
 Pada halaman *Home* ini terdapat data dashboard dari OPD-OPD terkait yang ditampilkan dalam bentuk prosentase dan grafik. Prosentase dan grafik tersebut menampilkan data tiap bulan dari OPD terkait.|
 [![Dashboard Halaman Depan](../images/dashboard-halaman-depan.png)](../images/dashboard-halaman-depan.png)
 Gambar 2. Halaman Depan Dashboard Pimpinan |
@@ -35,6 +35,7 @@ Sehingga *list menu* yang ada didalam apliksai dashboard pimpinan akan tampil se
 +++
 [![Tampilan List Menu](../images/dashboard-list-menu.png)](../images/dashboard-list-menu.png)
 Gambar 3. Tampilan List Menu Dashboard 
+
 ---
 
 
