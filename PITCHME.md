@@ -39,17 +39,19 @@ Sehingga list menu yang ada didalam apliksai dashboard pimpinan akan tampil sepe
 ![Tampilan List Menu](/assets/images/dashboard-list-menu.png)
 
 ---
+### Submenu Dashboard
 
+Subemenu Dashboard berisikan dashboard dari berbagai OPD yang antara lain
 
++++
+Dashboard Kepegawaian |
 
-
-# beloman
-
-##### 2.2.2.1 Dashboard Kepegawaian
-Dashboard Kepegawaian dapat dilihat dengan mengklik submenu **Kepegawaian** pada menu Dashboard seperti ditunjukan dibawah ini:
+Dashboard Kepegawaian dapat dilihat dengan cara mengklik submenu Kepegawaian pada menu Dashboard seperti ditunjukan dibawah ini 
 [![klik kepegawaian](../images/dashboard-klik-kepegawaian.png)](../images/dashboard-klik-kepegawaian.png)
 
-Maka akan muncul tampilan prosentase dan grafik dari submenu kepegawaian seperti gambar dibawah ini:
+
++++
+Maka akan muncul tampilan prosentase dan grafik dari submenu kepegawaian seperti gambar dibawah ini
 [![dashboard kepegawaian](../images/dashboard-kepegawaian.png)](../images/dashboard-kepegawaian.png)
 Gambar 4. Dashboard Kepegawaian
 
@@ -101,85 +103,6 @@ Maka aplikasi akan menampilkan prosentase dan grafik dari Usia Aparatur Sipil Ne
 [![Usia ASN](../images/kepegawaian-usia-asn.png)](../images/kepegawaian-usia-asn.png)
 Gambar 10. Tampilan Usia ASN
 
-##### 2.2.2.2 Dashboard Kependudukan
-Dashboard Kependudukan dapat dilihat dengan mengklik submenu **Kependudukan** pada menu Dashboard seperti ditunjukan dibawah ini:
-[![klik Kependudukan](../images/dashboard-klik-kependudukan.png)](../images/dashboard-klik-kependudukan.png)
-
-Maka akan muncul tampilan prosentase dan grafik dari submenu kependudukan seperti gambar dibawah ini:
-[![dashboard kependudukan](../images/dashboard-kependudukan.png)](../images/dashboard-kependudukan.png)
-Gambar 11. Dashboard Kependudukan
-
-###### 2.2.2.2.1 Dashboard Kependudukan Berdasarkan Penduduk
-Dashboard kependudukan berdasarkan Penduduk dapat dilihat dengan mengklik tab **Penduduk** seperti ditunjukan dibawah ini:
-[![klik Penduduk](../images/klik-tab-penduduk.png)](../images/klik-tab-penduduk.png)
-
-Maka aplikasi akan menampilkan prosentase dan grafik penduduk seperti ditunjukan pada gambar berikut:
-[![Jumlah Penduduk](../images/kependudukan-penduduk.png)](../images/kependudukan-penduduk.png)
-Gambar 12. Jumlah Penduduk
-
-##### 2.2.2.3 Dashboard Kesehatan
-Dashboard Kesehatan dapat dilihat dengan mengklik submenu **Kesehatan** pada menu Dashboard seperti ditunjukan dibawah ini:
-[![klik Kesehatan](../images/dashboard-klik-kesehatan.png)](../images/dashboard-klik-kesehatan.png)
-
-Maka akan muncul tampilan prosentase dan grafik dari submenu kesehatan seperti gambar dibawah ini:
-[![dashboard kesehatan](../images/dashboard-kesehatan.png)](../images/dashboard-kesehatan.png)
-Gambar 13. Dashboard Kesehatan
-
-###### 2.2.2.3.1 Dashboard Kesehatan Berdasarkan Tim Medis
-Dashboard Kesehatan berdasarkan Tim Medis dapat dilihat dengan mengklik tab **Tim Medis** seperti ditunjukan dibawah ini:
-[![klik Tim Medis](../images/klik-tab-tim-medis.png)](../images/klik-tab-tim-medis.png)
-
-Maka aplikasi akan menampilkan prosentase dan grafik tim medis seperti ditunjukan pada gambar berikut:
-[![Jumlah Tim Medis](../images/kesehatan-tim-medis.png)](../images/kesehatan-tim-medis.png)
-Gambar 14. Jumlah Tim Medis
-
-###### 2.2.2.3.2 Dashboard Kesehatan Berdasarkan Jumlah Fasilitas Kesehatan
-Dashboard Kesehatan berdasarkan Jumlah Fasilitas Kesehatan dapat dilihat dengan mengklik tab **Jumlah Fasilitas Kesehatan** seperti ditunjukan dibawah ini:
-[![klik Jumlah Fasilitas Kesehatan](../images/klik-tab-jumlah-fasilitas-kesehatan.png)](../images/klik-tab-jumlah-fasilitas-kesehatan.png)
-
-Maka aplikasi akan menampilkan prosentase dan grafik fasilitas kesehatan seperti ditunjukan pada gambar berikut:
-[![Jumlah Fasilitas Kesehatan](../images/kesehatan-jumlah-fasilitas-kesehatan.png)](../images/kesehatan-jumlah-fasilitas-kesehatan.png)
-Gambar 15. Jumlah Fasilitas Kesehatan
-
-###### 2.2.2.3.3 Dashboard Kesehatan Berdasarkan Jumlah Tempat Tidur
-Dashboard Kesehatan berdasarkan Jumlah Tempat Tidur dapat dilihat dengan mengklik tab **Jumlah Tempat Tidur** seperti ditunjukan dibawah ini:
-[![klik Jumlah Tempat Tidur](../images/klik-tab-jumlah-tempat-tidur.png)](../images/klik-tab-jumlah-tempat-tidur.png)
-
-Maka aplikasi akan menampilkan prosentase dan grafik Jumlah Tempat Tidur seperti ditunjukan pada gambar berikut:
-[![Jumlah Tempat Tidur](../images/kesehatan-jumlah-tempat-tidur.png)](../images/kesehatan-jumlah-tempat-tidur.png)
-Gambar 16. Jumlah Tempat Tidur
-
-##### 2.2.2.4 Dashboard Kependidikan
-Dashboard Kependidikan dapat dilihat dengan mengklik submenu **Kependidikan** pada menu Dashboard seperti ditunjukan dibawah ini:
-[![klik Kependidikan](../images/dashboard-klik-kependidikan.png)](../images/dashboard-klik-kependidikan.png)
-
-Maka akan muncul tampilan prosentase dan grafik dari submenu Kependidikan seperti gambar dibawah ini:
-[![dashboard Kependidikan](../images/dashboard-kependidikan.png)](../images/dashboard-kependidikan.png)
-Gambar 17. Dashboard Kependidikan
-
-###### 2.2.2.4.1 Dashboard Kependidikan Berdasarkan Pendidik
-Dashboard Kependidikan Berdasarkan Pendidik dapat dilihat dengan mengklik tab **Pendidik** seperti ditunjukan dibawah ini:
-[![klik Pendididik](../images/klik-tab-pendidik.png)](../images/klik-tab-pendididik.png)
-
-Maka aplikasi akan menampilkan prosentase dan grafik Pendidik seperti ditunjukan pada gambar berikut:
-[![Jumlah Pendididik](../images/kependidikan-pendidik.png)](../images/kependidikan-pendidik.png)
-Gambar 18. Jumlah Pendididik
-
-##### 2.2.2.5 Dashboard Epormas
-Dashboard Epormas dapat dilihat dengan mengklik submenu **Epormas** pada menu Dashboard seperti ditunjukan dibawah ini:
-[![klik Epormas](../images/dashboard-klik-epormas.png)](../images/dashboard-klik-epormas.png)
-
-Maka akan muncul tampilan prosentase dan grafik dari submenu Epormas seperti gambar dibawah ini:
-[![dashboard Epormas](../images/dashboard-epormas.png)](../images/dashboard-epormas.png)
-Gambar 19. Dashboard Epormas
-
-###### 2.2.2.5.1 Dashboard Epormas Berdasarkan Jumlah Laporan
-Dashboard Epormas Berdasarkan Jumlah Laporan dapat dilihat dengan mengklik tab **Jumlah Laporan** seperti ditunjukan dibawah ini:
-[![klik Jumlah Laporan](../images/klik-tab-jumlah-laporan.png)](../images/klik-tab-jumlah-laporan.png)
-
-Maka aplikasi akan menampilkan prosentase dan grafik Jumlah Laporan seperti ditunjukan pada gambar berikut:
-[![Jumlah Laporan](../images/epormas-jumlah-laporan.png)](../images/epormas-jumlah-laporan.png)
-Gambar 20. Jumlah Laporan
 
 #### 2.2.3 Data Kepegawaian
 Pada menu Data Kepegawaian ini akan memperlihatkan data master dari sub menu Kepegawaian, yang antara lain:
