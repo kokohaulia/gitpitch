@@ -1,16 +1,6 @@
----
-layout: document
-title: Desain dan Perancangan Dashboard Pimpinan
-description: Desain dan perancangan untuk aplikasi dashboard pimpinan yang digunakan pada Provinsi Banten.
-group: aplikasi
-cat: dashboard-pimpinan
-toc: true
----
-
-[![cover-dashboard-pimpinan](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/cover-dashboard-pimpinan.jpeg)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/cover-dashboard-pimpinan.jpeg)
-
 ## ABSTRAK
 [document](https://github.com/bantenprov/document-management-system/tree/master/document)Sistem Dashboard merupakan suatu sistem berbasis komputer yang dapat membantu suatu pemerintahan untuk meningkatkan kinerja dalam pengambilan keputusan dan memecahkan masalah yang umumnya berada di dalam wilayah dengan dimensi yang beragam. Sistem informasi sekarang sudah banyak tersedia di berbagai pemerintahan bertujuan untuk mewujudkan visi dan misi pemerintahan. Dewasa ini perkembangan teknologi komputer sangatlah pesat. Dengan menggunakan aplikasi komputer akan didapat informasi mengenai suatu tampilan objek yang ditampilkan lebih hidup dan menarik. Adanya kemajuan teknologi ini memungkinkan Sistem aplikasi Dashboard dapat memberikan jalan yang terbaik dan lebih menarik untuk masyarakat. dengan adanya Sistem aplikasi Dashboard Pemerintahan Provinsi Banten Berbasis Web mampu memberikan keputusan terbaik dalam melakukan pemantauan dalam laporan.
+---
 
 ## DAFTAR ISI
 **Halaman Judul**
@@ -32,7 +22,7 @@ toc: true
 3.3 Tahapan Pekerjaan
 3.4 Hasil
 **4. PENUTUP**
-
+---
 ## 1. PENDAHULUAN
 
 ### 1.1 Latar Belakang
@@ -44,13 +34,16 @@ pimpinan tidak perlu berpindah – pindah aplikasi.
 Perkembangan dunia komputer yang semakin kompleks mendorong setiap individu atau kelompok mau tidak mau harus menerapkannya dalam segala aktivitas. Disadari atau tidak setiap sistem yang ada seakan kurang lengkap ketika masih menggunakan model ataupun pengelolaan secara manual, disamping sangat banyak energi dan sumber daya yang akan terbuang, baik dari segi finansial yang tentunya menjadikan biaya lebih tinggi, maupun dari segi waktu yang akan memakan waktu lebih banyak.
 Dengan demikian, ukuran perkembangan Pemerintahan banyak diukur dari penerapan teknologi informasi yang digunakan dan bukan dari skala ukuran lain seperti besarnya gedung Pemerintahan yang dimiliki. Kebutuhan akan teknologi informasi sangat berhubungan dengan peran Pemerintahan sebagai kekuatan untuk kemajuan suatu daerahnya.
 Sistem informasi diatas terbatas pada unsur pimpinan yang mana hanya dapat diakses dengan identifikasi / otentikasi.
+---
 ### 1.2 Maksud dan Tujuan
 #### a) Maksud
 Maksud dari kegiatan ini adalah untuk melakukan kegiatan pengembangan Sistem Informasi Dashboard Pimpinan.
 #### b) Tujuan
 Tujuan dari kegiatan ini adalah agar tersedianya Sistem Informasi Dashboard Pimpinan dan untuk mempermudah pimpinan untuk melihat dan menilai kinerja SKPD (Satuan Kerja Perangkat Daerah).
+---
 ### 1.3 Ruang Lingkup Pekerjaan
 Ruang lingkup pekerjaan ini adalah pengembangan sistem informasi ini dilakukan di Dinas Komunikasi Informasi Statistika dan Persandian Provinsi Banten, adapun hasil dari kegiatan ini untuk dapat digunakan pada instansi dilingkungan Pemerintah Provinsi Banten.
+---
 ### 1.4 Ruang Lingkup Sistem Informasi / Aplikasi
 a) Menyediakan situs bagi seluruh Organisasi Perangkat Daerah yang ada dilingkungan Pemerintah Provinsi Banten untuk menyimpan Prosedur Operasional Baku yang berlaku dilingkungannya secara digital,
 b) Menyediakan proses pengaduan pengadaan / pengembangan sistem informasi / aplikasi / website secara digital untuk seluruh Organisasi Perangkat Daerah dilingkungan Pemeeritah Provinsi Banten.
