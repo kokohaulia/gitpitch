@@ -20,3 +20,8 @@ remote-control: true
 slide-number : true
 mousewheel : true
 
+background : /images/ti.jpg
+background-size: cover
+remote-control: true
+slide-number : true
+mousewheel : true
