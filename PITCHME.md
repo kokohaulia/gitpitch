@@ -1,4 +1,4 @@
-## NewSky
+## Develoer BantenProv
 With Proud
 Present
 
@@ -22,4 +22,5 @@ Present
 
 ### Tujuan Pengemabangan YanKes
 - Untuk memprmudah masyarakat dalam mencari informasi kesehatan di Provinsi Banten. |
-- Untuk mempermudah pen
+- Untuk mempermudah pengelolaan manajemen rumah sakit. |
+- 
