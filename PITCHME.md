@@ -16,7 +16,7 @@
 
 ---
 
-### Tujuan Pengemabangan YanKes
+### Tujuan Pengembangan YanKes
 - Untuk memprmudah masyarakat dalam mencari informasi kesehatan di Provinsi Banten. |
 - Untuk mempermudah pengelolaan manajemen rumah sakit. |
 - untuk mempermudah pendataan masyarakat yang sakit pada waktu tertentu. |
