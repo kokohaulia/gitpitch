@@ -1,14 +1,14 @@
-# Aplikasi Layanan Kesehatan Banten
+## Aplikasi Layanan Kesehatan Banten
 
 ---
 
-## Layanan Kesehatan (YanKes)
+### Layanan Kesehatan (YanKes)
 - YanKes adalah aplikasi berbasis web yang memberikan informasi mengenai informasi kesehatan yang terdapat di Banten. |
 - Aplikasi ini dilengkapi dengan informasi mengenai Rumah Sakit, Dokter dam Obat yang terdapat di Provinsi Banten. |
 
 ---
 
-## YanKes Features
+### YanKes Features
 - Mudah digunakan oleh masyarakat banyak. |
 - Tampilan yang menarik. |
 - Masyarakat dapat berkonsultasi dengan dokter secara langsung. |
@@ -16,7 +16,7 @@
 
 ---
 
-## Tujuan Pengemabangan YanKes
+### Tujuan Pengemabangan YanKes
 - Untuk memprmudah masyarakat dalam mencari informasi kesehatan di Provinsi Banten. |
 - Untuk mempermudah pengelolaan manajemen rumah sakit. |
 - untuk mempermudah pendataan masyarakat yang sakit pada waktu tertentu. |
