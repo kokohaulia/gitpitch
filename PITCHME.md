@@ -1,8 +1,4 @@
-## Develoer BantenProv
-With Proud
-Present
-
-### Aplikasi Layanan Kesehatan Banten
+## Aplikasi Layanan Kesehatan Banten
 
 ---
 
@@ -23,4 +19,5 @@ Present
 ### Tujuan Pengemabangan YanKes
 - Untuk memprmudah masyarakat dalam mencari informasi kesehatan di Provinsi Banten. |
 - Untuk mempermudah pengelolaan manajemen rumah sakit. |
-- 
+- untuk mempermudah pendataan masyarakat yang sakit pada waktu tertentu. |
+- Untuk mempermudah pendataan jumlah rumah sakit, dokter dan ruang rawat inap yang terdapat di provinsi Banten. |
