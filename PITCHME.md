@@ -27,7 +27,7 @@
 ### Tampilan Aplikasi YanKes
 
 #### Tampilan Home
-![Tampilan Home](/assets/images/tampilan-awal.png)
+![Tampilan Home](/assets/images/halaman-awal.png)
 
 ---
 
