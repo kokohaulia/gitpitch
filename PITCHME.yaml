@@ -9,7 +9,7 @@ theme : night
 theme-override : assets/css/PITCHME.css
 logo : none
 highlight : atom-one-light
-transition : concave
+transition : slide and zoom
 published : true
 footnote : "Making It Happen"
 remote-control: true
