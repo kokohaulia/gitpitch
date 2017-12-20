@@ -1,28 +1,25 @@
-## NewSky Present
+## NewSky
+With Proud
+Present
 
-#### Cara Melobi Janda dan Anak Sekolah
+### Aplikasi Layanan Kesehatan Banten
 
 ---
 
-### Melobi Janda
+### Layanan Kesehatan (YanKes)
+- YanKes adalah aplikasi berbasis web yang memberikan informasi mengenai informasi kesehatan yang terdapat di Banten. |
+- Aplikasi ini dilengkapi dengan informasi mengenai Rumah Sakit, Dokter dam Obat yang terdapat di Provinsi Banten. |
 
-- Kita perlu mencari tahu dulu apakan dia sudah punya anak atau belom, jika sudah kita bisa mulai pdkt dengan mendekati anaknya. Jika belum kita bisa langsung mendekati janda tersebut. |
-- Ajak janda tersebut jalan-jalan |
 ---
 
-### Melobi Anak Sekolah
+### YanKes Features
+- Mudah digunakan oleh masyarakat banyak. |
+- Tampilan yang menarik. |
+- Masyarakat dapat berkonsultasi dengan dokter secara langsung. |
+- Memudahkan dalam mencari informasi mengenai rumah sakit, dokter, obat dan jadwal jaga dokter. |
 
-- Traktir dia jajan |
-- Bawa motor gede biar kaya boy anak jalanan |
 ---
 
-### Bermain Dengan Orang yang Lebih Muda
-- Ajak maen ajah
-+++
-- Traktir Makan
-+++
-- Ajak Jalan jalan
----
-
-![newskypresent](/assets/images/ti.jpg)
-
+### Tujuan Pengemabangan YanKes
+- Untuk memprmudah masyarakat dalam mencari informasi kesehatan di Provinsi Banten. |
+- Untuk mempermudah pen
