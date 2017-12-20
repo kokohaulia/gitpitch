@@ -26,3 +26,45 @@
 
 ### Tampilan Aplikasi YanKes
 
+#### Tampilan Home
+![Tampilan Home](/assets/images/tampilan-awal.png)
+
+---
+
+#### Tampilan Rumah Sakit
+![Tampilan RS](/assets/images/tampilan-rumah-sakit.png)
+
++++
+
+##### Tampilan Info Rumah Sakit
+![Tampilan info rs](/assets/images/info-rs.png)
+
+---
+
+#### Tampilan Dokter
+![Tampilan Dokter](/assets/images/tampilan-dokter.png)
+
++++
+
+##### Tampilan Info Dokter
+![Tampilan Info Dokter](/assets/images/info-dokter.png)
+
+---
+
+#### Tampilan Kamar Inap
+![Tampilan Kamar Inap](tampilan-kamar-inap.png)
+
+---
+
+#### Tampilan News
+![Tampilan News](/assets/images/tampilan-kamar-inap.png)
+
+---
+
+#### Tampilan Blog
+![Tampilan Blog](/assets/iamges/tampilan-blog.png)
+
+---
+
+#### Tampilan Contact
+![Tampilan Contact](/assets/images/tampilan-contact.png)
