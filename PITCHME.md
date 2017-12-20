@@ -52,17 +52,17 @@
 ---
 
 #### Tampilan Kamar Inap
-![Tampilan Kamar Inap](tampilan-kamar-inap.png)
+![Tampilan Kamar Inap](/assets/images/tampilan-kamar-inap.png)
 
 ---
 
 #### Tampilan News
-![Tampilan News](/assets/images/tampilan-kamar-inap.png)
+![Tampilan News](/assets/images/tampilan-news.png)
 
 ---
 
 #### Tampilan Blog
-![Tampilan Blog](/assets/iamges/tampilan-blog.png)
+![Tampilan Blog](/assets/images/tampilan-blog.png)
 
 ---
 
