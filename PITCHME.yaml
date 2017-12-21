@@ -11,12 +11,11 @@ logo : none
 highlight : atom-one-light
 transition : concave
 published : true
-footnote : "Making It Happen"
+footnote : "Test GITPITCH"
 remote-control: true
 slide-number : true
-background : /assets/images/background.jpg
+background : /assets/image/1.jpg
 background-size: cover
 remote-control: true
 slide-number : true
 mousewheel : true
-
