@@ -1,7 +1,7 @@
 @title[Cover]
 
-## Dinas <span class=#FFD700>KominfoST</span>
-<span class=#FFD700>APLIKASI PELAYANAN KESEHATAN</span>
+## Dinas <span class="#FFD700">KominfoST</span>
+<span class="#FFD700">APLIKASI PELAYANAN KESEHATAN</span>
 
 ---
 
@@ -26,10 +26,10 @@
 @title[Tujuan]
 
 ### Tujuan Pengembangan YanKes
-- Untuk mempermudah <span class=#FFD700>masyarakat dalam mencari informasi kesehatan di Provinsi Banten.</span>
-- Untuk mempermudah <span class="gold">pengelolaan manajemen rumah sakit.</span>
-- untuk mempermudah <span class="gold">pendataan masyarakat yang sakit pada waktu tertentu.</span>
-- Untuk mempermudah <span class="gold">pendataan jumlah rumah sakit, dokter dan ruang rawat inap yang terdapat di provinsi Banten.</span>
+- Untuk mempermudah <span class="#FFD700">masyarakat dalam mencari informasi kesehatan di Provinsi Banten.</span>
+- Untuk mempermudah <span class="#FFD700">pengelolaan manajemen rumah sakit.</span>
+- untuk mempermudah <span class="#FFD700">pendataan masyarakat yang sakit pada waktu tertentu.</span>
+- Untuk mempermudah <span class="#FFD700">pendataan jumlah rumah sakit, dokter dan ruang rawat inap yang terdapat di provinsi Banten.</span>
 
 ---
 
