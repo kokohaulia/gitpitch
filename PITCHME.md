@@ -13,7 +13,7 @@
 
 ---
 
-Atitle[Features]
+@title[Features]
 
 ### YanKes Features
 - Mudah digunakan oleh masyarakat banyak. |
