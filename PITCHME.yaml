@@ -15,7 +15,7 @@ footnote : "Test GITPITCH"
 remote-control: true
 slide-number : true
 background : /assets/images/2.jpg
-background-size: auto
+background-size: contain
 remote-control: true
 slide-number : true
 mousewheel : true
